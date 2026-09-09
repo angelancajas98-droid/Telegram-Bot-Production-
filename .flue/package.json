@@ -18,7 +18,7 @@
 		"@flue/runtime": "0.4.0-nightly.202605211826",
 		"@octokit/auth-app": "8.2.0",
 		"agents": "0.17.4",
-		"hono": "4.12.25",
+		"hono": "4.13.5",
 		"valibot": "1.4.1"
 	},
 	"devDependencies": {
