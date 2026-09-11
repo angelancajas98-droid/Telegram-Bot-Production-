@@ -144,7 +144,7 @@
 		"unist-util-visit": "5.1.0",
 		"valibot": "1.4.2",
 		"vite": "^8.0.0",
-		"vitest": "4.1.10",
+		"vitest": "4.1.11",
 		"wrangler": "4.114.0",
 		"zod": "4.4.3"
 	},
